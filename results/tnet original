@@ -1,0 +1,1006 @@
+validation...
+250it [05:24,  1.30s/it]
+
+Overall Acc: 0.848076
+Mean Acc: 0.435610
+FreqW Acc: 0.763899
+Mean IoU: 0.335264
+
+Epoch 34, Itrs 24810/30000, Loss=0.564031
+Epoch 34, Itrs 24820/30000, Loss=0.410276
+Epoch 34, Itrs 24830/30000, Loss=0.494081
+Epoch 34, Itrs 24840/30000, Loss=0.508696
+Epoch 34, Itrs 24850/30000, Loss=0.462614
+Epoch 34, Itrs 24860/30000, Loss=0.539897
+Epoch 34, Itrs 24870/30000, Loss=0.428563
+Epoch 34, Itrs 24880/30000, Loss=0.517989
+Epoch 34, Itrs 24890/30000, Loss=0.463004
+Epoch 34, Itrs 24900/30000, Loss=0.478824
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:24,  1.30s/it]
+
+Overall Acc: 0.867098
+Mean Acc: 0.426128
+FreqW Acc: 0.777405
+Mean IoU: 0.342375
+
+Epoch 34, Itrs 24910/30000, Loss=0.493356
+Epoch 34, Itrs 24920/30000, Loss=0.495548
+Epoch 34, Itrs 24930/30000, Loss=0.400557
+Epoch 34, Itrs 24940/30000, Loss=0.531195
+Epoch 34, Itrs 24950/30000, Loss=0.438625
+Epoch 34, Itrs 24960/30000, Loss=0.445900
+Epoch 34, Itrs 24970/30000, Loss=0.540861
+Epoch 34, Itrs 24980/30000, Loss=0.438241
+Epoch 34, Itrs 24990/30000, Loss=0.502843
+Epoch 34, Itrs 25000/30000, Loss=0.451514
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.869461
+Mean Acc: 0.435793
+FreqW Acc: 0.780718
+Mean IoU: 0.348725
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 34, Itrs 25010/30000, Loss=0.412051
+Epoch 34, Itrs 25020/30000, Loss=0.500776
+Epoch 34, Itrs 25030/30000, Loss=0.461683
+Epoch 34, Itrs 25040/30000, Loss=0.511075
+Epoch 34, Itrs 25050/30000, Loss=0.415053
+Epoch 34, Itrs 25060/30000, Loss=0.441841
+Epoch 34, Itrs 25070/30000, Loss=0.584567
+Epoch 34, Itrs 25080/30000, Loss=0.429523
+Epoch 34, Itrs 25090/30000, Loss=0.591787
+Epoch 34, Itrs 25100/30000, Loss=0.453138
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.870043
+Mean Acc: 0.428266
+FreqW Acc: 0.780643
+Mean IoU: 0.348803
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 34, Itrs 25110/30000, Loss=0.559495
+Epoch 34, Itrs 25120/30000, Loss=0.488726
+Epoch 34, Itrs 25130/30000, Loss=0.513331
+Epoch 34, Itrs 25140/30000, Loss=0.493183
+Epoch 34, Itrs 25150/30000, Loss=0.519317
+Epoch 34, Itrs 25160/30000, Loss=0.499797
+Epoch 34, Itrs 25170/30000, Loss=0.431934
+Epoch 34, Itrs 25180/30000, Loss=0.454407
+Epoch 34, Itrs 25190/30000, Loss=0.505579
+Epoch 34, Itrs 25200/30000, Loss=0.394000
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.871359
+Mean Acc: 0.435130
+FreqW Acc: 0.783387
+Mean IoU: 0.353518
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 34, Itrs 25210/30000, Loss=0.387038
+Epoch 34, Itrs 25220/30000, Loss=0.388541
+Epoch 34, Itrs 25230/30000, Loss=0.424343
+Epoch 34, Itrs 25240/30000, Loss=0.554327
+Epoch 34, Itrs 25250/30000, Loss=0.427414
+Epoch 34, Itrs 25260/30000, Loss=0.375028
+Epoch 35, Itrs 25270/30000, Loss=0.551190
+Epoch 35, Itrs 25280/30000, Loss=0.516410
+Epoch 35, Itrs 25290/30000, Loss=0.485758
+Epoch 35, Itrs 25300/30000, Loss=0.493791
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.868360
+Mean Acc: 0.415267
+FreqW Acc: 0.777753
+Mean IoU: 0.339964
+
+Epoch 35, Itrs 25310/30000, Loss=0.443591
+Epoch 35, Itrs 25320/30000, Loss=0.377853
+Epoch 35, Itrs 25330/30000, Loss=0.463797
+Epoch 35, Itrs 25340/30000, Loss=0.419035
+Epoch 35, Itrs 25350/30000, Loss=0.537262
+Epoch 35, Itrs 25360/30000, Loss=0.393737
+Epoch 35, Itrs 25370/30000, Loss=0.518849
+Epoch 35, Itrs 25380/30000, Loss=0.378243
+Epoch 35, Itrs 25390/30000, Loss=0.605421
+Epoch 35, Itrs 25400/30000, Loss=0.361318
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.869621
+Mean Acc: 0.429158
+FreqW Acc: 0.781304
+Mean IoU: 0.346749
+
+Epoch 35, Itrs 25410/30000, Loss=0.474266
+Epoch 35, Itrs 25420/30000, Loss=0.426161
+Epoch 35, Itrs 25430/30000, Loss=0.368061
+Epoch 35, Itrs 25440/30000, Loss=0.620799
+Epoch 35, Itrs 25450/30000, Loss=0.462711
+Epoch 35, Itrs 25460/30000, Loss=0.389040
+Epoch 35, Itrs 25470/30000, Loss=0.424546
+Epoch 35, Itrs 25480/30000, Loss=0.434429
+Epoch 35, Itrs 25490/30000, Loss=0.481717
+Epoch 35, Itrs 25500/30000, Loss=0.481821
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.870946
+Mean Acc: 0.422441
+FreqW Acc: 0.781588
+Mean IoU: 0.348532
+
+Epoch 35, Itrs 25510/30000, Loss=0.469440
+Epoch 35, Itrs 25520/30000, Loss=0.409044
+Epoch 35, Itrs 25530/30000, Loss=0.534802
+Epoch 35, Itrs 25540/30000, Loss=0.533152
+Epoch 35, Itrs 25550/30000, Loss=0.503006
+Epoch 35, Itrs 25560/30000, Loss=0.377055
+Epoch 35, Itrs 25570/30000, Loss=0.433334
+Epoch 35, Itrs 25580/30000, Loss=0.365873
+Epoch 35, Itrs 25590/30000, Loss=0.505334
+Epoch 35, Itrs 25600/30000, Loss=0.460359
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.871261
+Mean Acc: 0.423094
+FreqW Acc: 0.781429
+Mean IoU: 0.349283
+
+Epoch 35, Itrs 25610/30000, Loss=0.419376
+Epoch 35, Itrs 25620/30000, Loss=0.466405
+Epoch 35, Itrs 25630/30000, Loss=0.492104
+Epoch 35, Itrs 25640/30000, Loss=0.410349
+Epoch 35, Itrs 25650/30000, Loss=0.555997
+Epoch 35, Itrs 25660/30000, Loss=0.457408
+Epoch 35, Itrs 25670/30000, Loss=0.410467
+Epoch 35, Itrs 25680/30000, Loss=0.528162
+Epoch 35, Itrs 25690/30000, Loss=0.481821
+Epoch 35, Itrs 25700/30000, Loss=0.556675
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.30s/it]
+
+Overall Acc: 0.871257
+Mean Acc: 0.438532
+FreqW Acc: 0.783638
+Mean IoU: 0.353064
+
+Epoch 35, Itrs 25710/30000, Loss=0.453020
+Epoch 35, Itrs 25720/30000, Loss=0.566773
+Epoch 35, Itrs 25730/30000, Loss=0.446918
+Epoch 35, Itrs 25740/30000, Loss=0.397267
+Epoch 35, Itrs 25750/30000, Loss=0.544480
+Epoch 35, Itrs 25760/30000, Loss=0.546808
+Epoch 35, Itrs 25770/30000, Loss=0.552180
+Epoch 35, Itrs 25780/30000, Loss=0.463575
+Epoch 35, Itrs 25790/30000, Loss=0.457369
+Epoch 35, Itrs 25800/30000, Loss=0.512880
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.30s/it]
+
+Overall Acc: 0.873052
+Mean Acc: 0.441180
+FreqW Acc: 0.785786
+Mean IoU: 0.355270
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 35, Itrs 25810/30000, Loss=0.447321
+Epoch 35, Itrs 25820/30000, Loss=0.575219
+Epoch 35, Itrs 25830/30000, Loss=0.397816
+Epoch 35, Itrs 25840/30000, Loss=0.446121
+Epoch 35, Itrs 25850/30000, Loss=0.536428
+Epoch 35, Itrs 25860/30000, Loss=0.507667
+Epoch 35, Itrs 25870/30000, Loss=0.581144
+Epoch 35, Itrs 25880/30000, Loss=0.457346
+Epoch 35, Itrs 25890/30000, Loss=0.527113
+Epoch 35, Itrs 25900/30000, Loss=0.480567
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.874617
+Mean Acc: 0.436406
+FreqW Acc: 0.786594
+Mean IoU: 0.357386
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 35, Itrs 25910/30000, Loss=0.456840
+Epoch 35, Itrs 25920/30000, Loss=0.517116
+Epoch 35, Itrs 25930/30000, Loss=0.500322
+Epoch 35, Itrs 25940/30000, Loss=0.426077
+Epoch 35, Itrs 25950/30000, Loss=0.431776
+Epoch 35, Itrs 25960/30000, Loss=0.616891
+Epoch 35, Itrs 25970/30000, Loss=0.483639
+Epoch 35, Itrs 25980/30000, Loss=0.421439
+Epoch 35, Itrs 25990/30000, Loss=0.395278
+Epoch 35, Itrs 26000/30000, Loss=0.400973
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.870080
+Mean Acc: 0.438677
+FreqW Acc: 0.782787
+Mean IoU: 0.351778
+
+Epoch 36, Itrs 26010/30000, Loss=0.583038
+Epoch 36, Itrs 26020/30000, Loss=0.430449
+Epoch 36, Itrs 26030/30000, Loss=0.462633
+Epoch 36, Itrs 26040/30000, Loss=0.540112
+Epoch 36, Itrs 26050/30000, Loss=0.405302
+Epoch 36, Itrs 26060/30000, Loss=0.474462
+Epoch 36, Itrs 26070/30000, Loss=0.486292
+Epoch 36, Itrs 26080/30000, Loss=0.498187
+Epoch 36, Itrs 26090/30000, Loss=0.440437
+Epoch 36, Itrs 26100/30000, Loss=0.438290
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.872515
+Mean Acc: 0.445144
+FreqW Acc: 0.785191
+Mean IoU: 0.356264
+
+Epoch 36, Itrs 26110/30000, Loss=0.444227
+Epoch 36, Itrs 26120/30000, Loss=0.482075
+Epoch 36, Itrs 26130/30000, Loss=0.485266
+Epoch 36, Itrs 26140/30000, Loss=0.428579
+Epoch 36, Itrs 26150/30000, Loss=0.498440
+Epoch 36, Itrs 26160/30000, Loss=0.463609
+Epoch 36, Itrs 26170/30000, Loss=0.416453
+Epoch 36, Itrs 26180/30000, Loss=0.585288
+Epoch 36, Itrs 26190/30000, Loss=0.477748
+Epoch 36, Itrs 26200/30000, Loss=0.512952
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:25,  1.30s/it]
+
+Overall Acc: 0.869484
+Mean Acc: 0.425399
+FreqW Acc: 0.781586
+Mean IoU: 0.344533
+
+Epoch 36, Itrs 26210/30000, Loss=0.540077
+Epoch 36, Itrs 26220/30000, Loss=0.465222
+Epoch 36, Itrs 26230/30000, Loss=0.456085
+Epoch 36, Itrs 26240/30000, Loss=0.561570
+Epoch 36, Itrs 26250/30000, Loss=0.393407
+Epoch 36, Itrs 26260/30000, Loss=0.548053
+Epoch 36, Itrs 26270/30000, Loss=0.479967
+Epoch 36, Itrs 26280/30000, Loss=0.423657
+Epoch 36, Itrs 26290/30000, Loss=0.410054
+Epoch 36, Itrs 26300/30000, Loss=0.509494
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.31s/it]
+
+Overall Acc: 0.872091
+Mean Acc: 0.442312
+FreqW Acc: 0.785415
+Mean IoU: 0.352097
+
+Epoch 36, Itrs 26310/30000, Loss=0.457238
+Epoch 36, Itrs 26320/30000, Loss=0.408078
+Epoch 36, Itrs 26330/30000, Loss=0.465475
+Epoch 36, Itrs 26340/30000, Loss=0.566027
+Epoch 36, Itrs 26350/30000, Loss=0.428716
+Epoch 36, Itrs 26360/30000, Loss=0.408866
+Epoch 36, Itrs 26370/30000, Loss=0.402564
+Epoch 36, Itrs 26380/30000, Loss=0.547932
+Epoch 36, Itrs 26390/30000, Loss=0.626098
+Epoch 36, Itrs 26400/30000, Loss=0.613872
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.31s/it]
+
+Overall Acc: 0.869659
+Mean Acc: 0.430893
+FreqW Acc: 0.781540
+Mean IoU: 0.347864
+
+Epoch 36, Itrs 26410/30000, Loss=0.483464
+Epoch 36, Itrs 26420/30000, Loss=0.484898
+Epoch 36, Itrs 26430/30000, Loss=0.455127
+Epoch 36, Itrs 26440/30000, Loss=0.419592
+Epoch 36, Itrs 26450/30000, Loss=0.505427
+Epoch 36, Itrs 26460/30000, Loss=0.419127
+Epoch 36, Itrs 26470/30000, Loss=0.450635
+Epoch 36, Itrs 26480/30000, Loss=0.486482
+Epoch 36, Itrs 26490/30000, Loss=0.485462
+Epoch 36, Itrs 26500/30000, Loss=0.465711
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.31s/it]
+
+Overall Acc: 0.874136
+Mean Acc: 0.429388
+FreqW Acc: 0.785982
+Mean IoU: 0.352307
+
+Epoch 36, Itrs 26510/30000, Loss=0.567771
+Epoch 36, Itrs 26520/30000, Loss=0.596466
+Epoch 36, Itrs 26530/30000, Loss=0.446566
+Epoch 36, Itrs 26540/30000, Loss=0.410794
+Epoch 36, Itrs 26550/30000, Loss=0.425597
+Epoch 36, Itrs 26560/30000, Loss=0.452703
+Epoch 36, Itrs 26570/30000, Loss=0.435765
+Epoch 36, Itrs 26580/30000, Loss=0.528230
+Epoch 36, Itrs 26590/30000, Loss=0.463392
+Epoch 36, Itrs 26600/30000, Loss=0.432390
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.872052
+Mean Acc: 0.432649
+FreqW Acc: 0.783782
+Mean IoU: 0.351873
+
+Epoch 36, Itrs 26610/30000, Loss=0.557234
+Epoch 36, Itrs 26620/30000, Loss=0.480645
+Epoch 36, Itrs 26630/30000, Loss=0.484198
+Epoch 36, Itrs 26640/30000, Loss=0.529989
+Epoch 36, Itrs 26650/30000, Loss=0.456796
+Epoch 36, Itrs 26660/30000, Loss=0.578845
+Epoch 36, Itrs 26670/30000, Loss=0.468077
+Epoch 36, Itrs 26680/30000, Loss=0.553037
+Epoch 36, Itrs 26690/30000, Loss=0.488018
+Epoch 36, Itrs 26700/30000, Loss=0.460267
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.867276
+Mean Acc: 0.423019
+FreqW Acc: 0.777298
+Mean IoU: 0.342848
+
+Epoch 36, Itrs 26710/30000, Loss=0.465124
+Epoch 36, Itrs 26720/30000, Loss=0.407563
+Epoch 36, Itrs 26730/30000, Loss=0.451468
+Epoch 36, Itrs 26740/30000, Loss=0.481570
+Epoch 37, Itrs 26750/30000, Loss=0.407824
+Epoch 37, Itrs 26760/30000, Loss=0.450299
+Epoch 37, Itrs 26770/30000, Loss=0.424357
+Epoch 37, Itrs 26780/30000, Loss=0.464224
+Epoch 37, Itrs 26790/30000, Loss=0.504931
+Epoch 37, Itrs 26800/30000, Loss=0.566676
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.31s/it]
+
+Overall Acc: 0.871536
+Mean Acc: 0.431974
+FreqW Acc: 0.783989
+Mean IoU: 0.352920
+
+Epoch 37, Itrs 26810/30000, Loss=0.445560
+Epoch 37, Itrs 26820/30000, Loss=0.502599
+Epoch 37, Itrs 26830/30000, Loss=0.493303
+Epoch 37, Itrs 26840/30000, Loss=0.439108
+Epoch 37, Itrs 26850/30000, Loss=0.404901
+Epoch 37, Itrs 26860/30000, Loss=0.470152
+Epoch 37, Itrs 26870/30000, Loss=0.439352
+Epoch 37, Itrs 26880/30000, Loss=0.401144
+Epoch 37, Itrs 26890/30000, Loss=0.490170
+Epoch 37, Itrs 26900/30000, Loss=0.471627
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.31s/it]
+
+Overall Acc: 0.873214
+Mean Acc: 0.435652
+FreqW Acc: 0.785814
+Mean IoU: 0.355557
+
+Epoch 37, Itrs 26910/30000, Loss=0.508496
+Epoch 37, Itrs 26920/30000, Loss=0.531372
+Epoch 37, Itrs 26930/30000, Loss=0.449725
+Epoch 37, Itrs 26940/30000, Loss=0.421632
+Epoch 37, Itrs 26950/30000, Loss=0.475278
+Epoch 37, Itrs 26960/30000, Loss=0.389371
+Epoch 37, Itrs 26970/30000, Loss=0.407943
+Epoch 37, Itrs 26980/30000, Loss=0.503512
+Epoch 37, Itrs 26990/30000, Loss=0.572884
+Epoch 37, Itrs 27000/30000, Loss=0.387163
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.870514
+Mean Acc: 0.438576
+FreqW Acc: 0.783738
+Mean IoU: 0.349754
+
+Epoch 37, Itrs 27010/30000, Loss=0.392309
+Epoch 37, Itrs 27020/30000, Loss=0.358936
+Epoch 37, Itrs 27030/30000, Loss=0.365406
+Epoch 37, Itrs 27040/30000, Loss=0.449900
+Epoch 37, Itrs 27050/30000, Loss=0.409512
+Epoch 37, Itrs 27060/30000, Loss=0.471706
+Epoch 37, Itrs 27070/30000, Loss=0.496642
+Epoch 37, Itrs 27080/30000, Loss=0.425110
+Epoch 37, Itrs 27090/30000, Loss=0.411435
+Epoch 37, Itrs 27100/30000, Loss=0.544535
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.872741
+Mean Acc: 0.440910
+FreqW Acc: 0.785808
+Mean IoU: 0.356415
+
+Epoch 37, Itrs 27110/30000, Loss=0.420136
+Epoch 37, Itrs 27120/30000, Loss=0.363784
+Epoch 37, Itrs 27130/30000, Loss=0.377291
+Epoch 37, Itrs 27140/30000, Loss=0.525380
+Epoch 37, Itrs 27150/30000, Loss=0.474994
+Epoch 37, Itrs 27160/30000, Loss=0.527987
+Epoch 37, Itrs 27170/30000, Loss=0.618595
+Epoch 37, Itrs 27180/30000, Loss=0.357725
+Epoch 37, Itrs 27190/30000, Loss=0.367025
+Epoch 37, Itrs 27200/30000, Loss=0.561722
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.31s/it]
+
+Overall Acc: 0.867369
+Mean Acc: 0.438538
+FreqW Acc: 0.779260
+Mean IoU: 0.351319
+
+Epoch 37, Itrs 27210/30000, Loss=0.594387
+Epoch 37, Itrs 27220/30000, Loss=0.403981
+Epoch 37, Itrs 27230/30000, Loss=0.429060
+Epoch 37, Itrs 27240/30000, Loss=0.440736
+Epoch 37, Itrs 27250/30000, Loss=0.554294
+Epoch 37, Itrs 27260/30000, Loss=0.424722
+Epoch 37, Itrs 27270/30000, Loss=0.438986
+Epoch 37, Itrs 27280/30000, Loss=0.501372
+Epoch 37, Itrs 27290/30000, Loss=0.418820
+Epoch 37, Itrs 27300/30000, Loss=0.377345
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.871243
+Mean Acc: 0.441774
+FreqW Acc: 0.784525
+Mean IoU: 0.352086
+
+Epoch 37, Itrs 27310/30000, Loss=0.482671
+Epoch 37, Itrs 27320/30000, Loss=0.456260
+Epoch 37, Itrs 27330/30000, Loss=0.499262
+Epoch 37, Itrs 27340/30000, Loss=0.404841
+Epoch 37, Itrs 27350/30000, Loss=0.525399
+Epoch 37, Itrs 27360/30000, Loss=0.373276
+Epoch 37, Itrs 27370/30000, Loss=0.426210
+Epoch 37, Itrs 27380/30000, Loss=0.381033
+Epoch 37, Itrs 27390/30000, Loss=0.473653
+Epoch 37, Itrs 27400/30000, Loss=0.561221
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.871951
+Mean Acc: 0.425206
+FreqW Acc: 0.783341
+Mean IoU: 0.348942
+
+Epoch 37, Itrs 27410/30000, Loss=0.548067
+Epoch 37, Itrs 27420/30000, Loss=0.535170
+Epoch 37, Itrs 27430/30000, Loss=0.510813
+Epoch 37, Itrs 27440/30000, Loss=0.678521
+Epoch 37, Itrs 27450/30000, Loss=0.591624
+Epoch 37, Itrs 27460/30000, Loss=0.367176
+Epoch 37, Itrs 27470/30000, Loss=0.443391
+Epoch 37, Itrs 27480/30000, Loss=0.519480
+Epoch 37, Itrs 27490/30000, Loss=0.492342
+Epoch 38, Itrs 27500/30000, Loss=0.470352
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.873154
+Mean Acc: 0.434870
+FreqW Acc: 0.785638
+Mean IoU: 0.355871
+
+Epoch 38, Itrs 27510/30000, Loss=0.458934
+Epoch 38, Itrs 27520/30000, Loss=0.392965
+Epoch 38, Itrs 27530/30000, Loss=0.599106
+Epoch 38, Itrs 27540/30000, Loss=0.432606
+Epoch 38, Itrs 27550/30000, Loss=0.405473
+Epoch 38, Itrs 27560/30000, Loss=0.427541
+Epoch 38, Itrs 27570/30000, Loss=0.434695
+Epoch 38, Itrs 27580/30000, Loss=0.448492
+Epoch 38, Itrs 27590/30000, Loss=0.385983
+Epoch 38, Itrs 27600/30000, Loss=0.514365
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.873070
+Mean Acc: 0.447251
+FreqW Acc: 0.787072
+Mean IoU: 0.360120
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 38, Itrs 27610/30000, Loss=0.554619
+Epoch 38, Itrs 27620/30000, Loss=0.392860
+Epoch 38, Itrs 27630/30000, Loss=0.471428
+Epoch 38, Itrs 27640/30000, Loss=0.486258
+Epoch 38, Itrs 27650/30000, Loss=0.425784
+Epoch 38, Itrs 27660/30000, Loss=0.479890
+Epoch 38, Itrs 27670/30000, Loss=0.444437
+Epoch 38, Itrs 27680/30000, Loss=0.362707
+Epoch 38, Itrs 27690/30000, Loss=0.420869
+Epoch 38, Itrs 27700/30000, Loss=0.443259
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.31s/it]
+
+Overall Acc: 0.872234
+Mean Acc: 0.436676
+FreqW Acc: 0.784154
+Mean IoU: 0.354412
+
+Epoch 38, Itrs 27710/30000, Loss=0.619582
+Epoch 38, Itrs 27720/30000, Loss=0.491972
+Epoch 38, Itrs 27730/30000, Loss=0.418187
+Epoch 38, Itrs 27740/30000, Loss=0.482084
+Epoch 38, Itrs 27750/30000, Loss=0.420588
+Epoch 38, Itrs 27760/30000, Loss=0.435854
+Epoch 38, Itrs 27770/30000, Loss=0.498287
+Epoch 38, Itrs 27780/30000, Loss=0.483676
+Epoch 38, Itrs 27790/30000, Loss=0.451537
+Epoch 38, Itrs 27800/30000, Loss=0.467246
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.871897
+Mean Acc: 0.431757
+FreqW Acc: 0.783691
+Mean IoU: 0.352427
+
+Epoch 38, Itrs 27810/30000, Loss=0.516786
+Epoch 38, Itrs 27820/30000, Loss=0.493268
+Epoch 38, Itrs 27830/30000, Loss=0.536527
+Epoch 38, Itrs 27840/30000, Loss=0.485862
+Epoch 38, Itrs 27850/30000, Loss=0.390736
+Epoch 38, Itrs 27860/30000, Loss=0.389283
+Epoch 38, Itrs 27870/30000, Loss=0.528608
+Epoch 38, Itrs 27880/30000, Loss=0.406055
+Epoch 38, Itrs 27890/30000, Loss=0.469598
+Epoch 38, Itrs 27900/30000, Loss=0.538740
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.873501
+Mean Acc: 0.427929
+FreqW Acc: 0.785694
+Mean IoU: 0.351508
+
+Epoch 38, Itrs 27910/30000, Loss=0.530728
+Epoch 38, Itrs 27920/30000, Loss=0.438220
+Epoch 38, Itrs 27930/30000, Loss=0.433391
+Epoch 38, Itrs 27940/30000, Loss=0.498000
+Epoch 38, Itrs 27950/30000, Loss=0.477837
+Epoch 38, Itrs 27960/30000, Loss=0.483156
+Epoch 38, Itrs 27970/30000, Loss=0.496376
+Epoch 38, Itrs 27980/30000, Loss=0.428574
+Epoch 38, Itrs 27990/30000, Loss=0.522328
+Epoch 38, Itrs 28000/30000, Loss=0.465721
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.874709
+Mean Acc: 0.438893
+FreqW Acc: 0.787487
+Mean IoU: 0.358488
+
+Epoch 38, Itrs 28010/30000, Loss=0.460313
+Epoch 38, Itrs 28020/30000, Loss=0.412629
+Epoch 38, Itrs 28030/30000, Loss=0.424235
+Epoch 38, Itrs 28040/30000, Loss=0.376006
+Epoch 38, Itrs 28050/30000, Loss=0.536229
+Epoch 38, Itrs 28060/30000, Loss=0.468116
+Epoch 38, Itrs 28070/30000, Loss=0.397214
+Epoch 38, Itrs 28080/30000, Loss=0.475228
+Epoch 38, Itrs 28090/30000, Loss=0.460536
+Epoch 38, Itrs 28100/30000, Loss=0.517680
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.874790
+Mean Acc: 0.440979
+FreqW Acc: 0.787856
+Mean IoU: 0.357784
+
+Epoch 38, Itrs 28110/30000, Loss=0.442307
+Epoch 38, Itrs 28120/30000, Loss=0.421374
+Epoch 38, Itrs 28130/30000, Loss=0.540234
+Epoch 38, Itrs 28140/30000, Loss=0.515973
+Epoch 38, Itrs 28150/30000, Loss=0.390999
+Epoch 38, Itrs 28160/30000, Loss=0.498726
+Epoch 38, Itrs 28170/30000, Loss=0.452376
+Epoch 38, Itrs 28180/30000, Loss=0.506565
+Epoch 38, Itrs 28190/30000, Loss=0.486821
+Epoch 38, Itrs 28200/30000, Loss=0.451168
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.31s/it]
+
+Overall Acc: 0.871884
+Mean Acc: 0.438619
+FreqW Acc: 0.784231
+Mean IoU: 0.354971
+
+Epoch 38, Itrs 28210/30000, Loss=0.391587
+Epoch 38, Itrs 28220/30000, Loss=0.439674
+Epoch 38, Itrs 28230/30000, Loss=0.457350
+Epoch 39, Itrs 28240/30000, Loss=0.506945
+Epoch 39, Itrs 28250/30000, Loss=0.467265
+Epoch 39, Itrs 28260/30000, Loss=0.390363
+Epoch 39, Itrs 28270/30000, Loss=0.551426
+Epoch 39, Itrs 28280/30000, Loss=0.581814
+Epoch 39, Itrs 28290/30000, Loss=0.399822
+Epoch 39, Itrs 28300/30000, Loss=0.443036
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.871974
+Mean Acc: 0.435059
+FreqW Acc: 0.783662
+Mean IoU: 0.354981
+
+Epoch 39, Itrs 28310/30000, Loss=0.484164
+Epoch 39, Itrs 28320/30000, Loss=0.376138
+Epoch 39, Itrs 28330/30000, Loss=0.431978
+Epoch 39, Itrs 28340/30000, Loss=0.375354
+Epoch 39, Itrs 28350/30000, Loss=0.498824
+Epoch 39, Itrs 28360/30000, Loss=0.462799
+Epoch 39, Itrs 28370/30000, Loss=0.412667
+Epoch 39, Itrs 28380/30000, Loss=0.404188
+Epoch 39, Itrs 28390/30000, Loss=0.501575
+Epoch 39, Itrs 28400/30000, Loss=0.427105
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.874098
+Mean Acc: 0.442791
+FreqW Acc: 0.787328
+Mean IoU: 0.359778
+
+Epoch 39, Itrs 28410/30000, Loss=0.533367
+Epoch 39, Itrs 28420/30000, Loss=0.422132
+Epoch 39, Itrs 28430/30000, Loss=0.456934
+Epoch 39, Itrs 28440/30000, Loss=0.420723
+Epoch 39, Itrs 28450/30000, Loss=0.439550
+Epoch 39, Itrs 28460/30000, Loss=0.422682
+Epoch 39, Itrs 28470/30000, Loss=0.467379
+Epoch 39, Itrs 28480/30000, Loss=0.395240
+Epoch 39, Itrs 28490/30000, Loss=0.403308
+Epoch 39, Itrs 28500/30000, Loss=0.517983
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.31s/it]
+
+Overall Acc: 0.874346
+Mean Acc: 0.436132
+FreqW Acc: 0.786595
+Mean IoU: 0.359141
+
+Epoch 39, Itrs 28510/30000, Loss=0.522005
+Epoch 39, Itrs 28520/30000, Loss=0.435909
+Epoch 39, Itrs 28530/30000, Loss=0.396819
+Epoch 39, Itrs 28540/30000, Loss=0.368417
+Epoch 39, Itrs 28550/30000, Loss=0.528119
+Epoch 39, Itrs 28560/30000, Loss=0.450473
+Epoch 39, Itrs 28570/30000, Loss=0.355360
+Epoch 39, Itrs 28580/30000, Loss=0.441113
+Epoch 39, Itrs 28590/30000, Loss=0.512086
+Epoch 39, Itrs 28600/30000, Loss=0.525847
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.874241
+Mean Acc: 0.440336
+FreqW Acc: 0.786931
+Mean IoU: 0.358655
+
+Epoch 39, Itrs 28610/30000, Loss=0.438381
+Epoch 39, Itrs 28620/30000, Loss=0.500600
+Epoch 39, Itrs 28630/30000, Loss=0.485813
+Epoch 39, Itrs 28640/30000, Loss=0.545939
+Epoch 39, Itrs 28650/30000, Loss=0.362951
+Epoch 39, Itrs 28660/30000, Loss=0.590875
+Epoch 39, Itrs 28670/30000, Loss=0.435016
+Epoch 39, Itrs 28680/30000, Loss=0.423679
+Epoch 39, Itrs 28690/30000, Loss=0.420930
+Epoch 39, Itrs 28700/30000, Loss=0.457833
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:26,  1.31s/it]
+
+Overall Acc: 0.873302
+Mean Acc: 0.435821
+FreqW Acc: 0.785341
+Mean IoU: 0.357215
+
+Epoch 39, Itrs 28710/30000, Loss=0.491811
+Epoch 39, Itrs 28720/30000, Loss=0.509567
+Epoch 39, Itrs 28730/30000, Loss=0.407175
+Epoch 39, Itrs 28740/30000, Loss=0.511497
+Epoch 39, Itrs 28750/30000, Loss=0.535761
+Epoch 39, Itrs 28760/30000, Loss=0.434801
+Epoch 39, Itrs 28770/30000, Loss=0.538137
+Epoch 39, Itrs 28780/30000, Loss=0.464024
+Epoch 39, Itrs 28790/30000, Loss=0.405932
+Epoch 39, Itrs 28800/30000, Loss=0.424322
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.872768
+Mean Acc: 0.441080
+FreqW Acc: 0.785871
+Mean IoU: 0.358987
+
+Epoch 39, Itrs 28810/30000, Loss=0.416948
+Epoch 39, Itrs 28820/30000, Loss=0.470261
+Epoch 39, Itrs 28830/30000, Loss=0.421692
+Epoch 39, Itrs 28840/30000, Loss=0.463844
+Epoch 39, Itrs 28850/30000, Loss=0.412975
+Epoch 39, Itrs 28860/30000, Loss=0.435616
+Epoch 39, Itrs 28870/30000, Loss=0.430735
+Epoch 39, Itrs 28880/30000, Loss=0.486348
+Epoch 39, Itrs 28890/30000, Loss=0.406568
+Epoch 39, Itrs 28900/30000, Loss=0.620331
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.874308
+Mean Acc: 0.441048
+FreqW Acc: 0.787942
+Mean IoU: 0.358845
+
+Epoch 39, Itrs 28910/30000, Loss=0.427761
+Epoch 39, Itrs 28920/30000, Loss=0.459888
+Epoch 39, Itrs 28930/30000, Loss=0.490119
+Epoch 39, Itrs 28940/30000, Loss=0.402728
+Epoch 39, Itrs 28950/30000, Loss=0.440569
+Epoch 39, Itrs 28960/30000, Loss=0.383421
+Epoch 39, Itrs 28970/30000, Loss=0.473987
+Epoch 40, Itrs 28980/30000, Loss=0.457076
+Epoch 40, Itrs 28990/30000, Loss=0.495354
+Epoch 40, Itrs 29000/30000, Loss=0.432980
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:28,  1.32s/it]
+
+Overall Acc: 0.874543
+Mean Acc: 0.445556
+FreqW Acc: 0.788461
+Mean IoU: 0.362233
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 40, Itrs 29010/30000, Loss=0.410480
+Epoch 40, Itrs 29020/30000, Loss=0.409349
+Epoch 40, Itrs 29030/30000, Loss=0.458224
+Epoch 40, Itrs 29040/30000, Loss=0.500162
+Epoch 40, Itrs 29050/30000, Loss=0.405440
+Epoch 40, Itrs 29060/30000, Loss=0.424031
+Epoch 40, Itrs 29070/30000, Loss=0.505150
+Epoch 40, Itrs 29080/30000, Loss=0.527009
+Epoch 40, Itrs 29090/30000, Loss=0.352639
+Epoch 40, Itrs 29100/30000, Loss=0.435811
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.875816
+Mean Acc: 0.441463
+FreqW Acc: 0.789518
+Mean IoU: 0.362989
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 40, Itrs 29110/30000, Loss=0.397681
+Epoch 40, Itrs 29120/30000, Loss=0.516344
+Epoch 40, Itrs 29130/30000, Loss=0.396550
+Epoch 40, Itrs 29140/30000, Loss=0.344706
+Epoch 40, Itrs 29150/30000, Loss=0.395399
+Epoch 40, Itrs 29160/30000, Loss=0.437827
+Epoch 40, Itrs 29170/30000, Loss=0.455908
+Epoch 40, Itrs 29180/30000, Loss=0.434716
+Epoch 40, Itrs 29190/30000, Loss=0.519254
+Epoch 40, Itrs 29200/30000, Loss=0.393644
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.875702
+Mean Acc: 0.440629
+FreqW Acc: 0.788709
+Mean IoU: 0.363025
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 40, Itrs 29210/30000, Loss=0.547473
+Epoch 40, Itrs 29220/30000, Loss=0.437713
+Epoch 40, Itrs 29230/30000, Loss=0.397062
+Epoch 40, Itrs 29240/30000, Loss=0.387088
+Epoch 40, Itrs 29250/30000, Loss=0.534774
+Epoch 40, Itrs 29260/30000, Loss=0.429238
+Epoch 40, Itrs 29270/30000, Loss=0.492639
+Epoch 40, Itrs 29280/30000, Loss=0.422063
+Epoch 40, Itrs 29290/30000, Loss=0.355389
+Epoch 40, Itrs 29300/30000, Loss=0.404131
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.875857
+Mean Acc: 0.441447
+FreqW Acc: 0.789222
+Mean IoU: 0.362760
+
+Epoch 40, Itrs 29310/30000, Loss=0.405845
+Epoch 40, Itrs 29320/30000, Loss=0.536054
+Epoch 40, Itrs 29330/30000, Loss=0.450330
+Epoch 40, Itrs 29340/30000, Loss=0.474214
+Epoch 40, Itrs 29350/30000, Loss=0.468973
+Epoch 40, Itrs 29360/30000, Loss=0.453190
+Epoch 40, Itrs 29370/30000, Loss=0.492253
+Epoch 40, Itrs 29380/30000, Loss=0.364665
+Epoch 40, Itrs 29390/30000, Loss=0.606284
+Epoch 40, Itrs 29400/30000, Loss=0.479269
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.874910
+Mean Acc: 0.443983
+FreqW Acc: 0.788570
+Mean IoU: 0.360953
+
+Epoch 40, Itrs 29410/30000, Loss=0.462078
+Epoch 40, Itrs 29420/30000, Loss=0.436012
+Epoch 40, Itrs 29430/30000, Loss=0.588685
+Epoch 40, Itrs 29440/30000, Loss=0.440401
+Epoch 40, Itrs 29450/30000, Loss=0.363039
+Epoch 40, Itrs 29460/30000, Loss=0.526388
+Epoch 40, Itrs 29470/30000, Loss=0.428487
+Epoch 40, Itrs 29480/30000, Loss=0.536838
+Epoch 40, Itrs 29490/30000, Loss=0.438168
+Epoch 40, Itrs 29500/30000, Loss=0.483287
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:29,  1.32s/it]
+
+Overall Acc: 0.875283
+Mean Acc: 0.441782
+FreqW Acc: 0.788753
+Mean IoU: 0.362236
+
+Epoch 40, Itrs 29510/30000, Loss=0.486797
+Epoch 40, Itrs 29520/30000, Loss=0.419584
+Epoch 40, Itrs 29530/30000, Loss=0.484658
+Epoch 40, Itrs 29540/30000, Loss=0.534797
+Epoch 40, Itrs 29550/30000, Loss=0.411142
+Epoch 40, Itrs 29560/30000, Loss=0.481533
+Epoch 40, Itrs 29570/30000, Loss=0.438843
+Epoch 40, Itrs 29580/30000, Loss=0.423227
+Epoch 40, Itrs 29590/30000, Loss=0.437839
+Epoch 40, Itrs 29600/30000, Loss=0.365382
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:30,  1.32s/it]
+
+Overall Acc: 0.875081
+Mean Acc: 0.440122
+FreqW Acc: 0.788081
+Mean IoU: 0.361656
+
+Epoch 40, Itrs 29610/30000, Loss=0.586033
+Epoch 40, Itrs 29620/30000, Loss=0.433496
+Epoch 40, Itrs 29630/30000, Loss=0.364948
+Epoch 40, Itrs 29640/30000, Loss=0.466752
+Epoch 40, Itrs 29650/30000, Loss=0.341709
+Epoch 40, Itrs 29660/30000, Loss=0.424767
+Epoch 40, Itrs 29670/30000, Loss=0.439522
+Epoch 40, Itrs 29680/30000, Loss=0.508973
+Epoch 40, Itrs 29690/30000, Loss=0.407622
+Epoch 40, Itrs 29700/30000, Loss=0.493879
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:30,  1.32s/it]
+
+Overall Acc: 0.873480
+Mean Acc: 0.440417
+FreqW Acc: 0.786504
+Mean IoU: 0.357182
+
+Epoch 40, Itrs 29710/30000, Loss=0.512774
+Epoch 40, Itrs 29720/30000, Loss=0.384440
+Epoch 41, Itrs 29730/30000, Loss=0.400157
+Epoch 41, Itrs 29740/30000, Loss=0.553617
+Epoch 41, Itrs 29750/30000, Loss=0.433849
+Epoch 41, Itrs 29760/30000, Loss=0.545587
+Epoch 41, Itrs 29770/30000, Loss=0.462417
+Epoch 41, Itrs 29780/30000, Loss=0.475757
+Epoch 41, Itrs 29790/30000, Loss=0.465562
+Epoch 41, Itrs 29800/30000, Loss=0.485445
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:29,  1.32s/it]
+
+Overall Acc: 0.876046
+Mean Acc: 0.447451
+FreqW Acc: 0.790569
+Mean IoU: 0.363352
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 41, Itrs 29810/30000, Loss=0.403572
+Epoch 41, Itrs 29820/30000, Loss=0.424033
+Epoch 41, Itrs 29830/30000, Loss=0.417952
+Epoch 41, Itrs 29840/30000, Loss=0.397703
+Epoch 41, Itrs 29850/30000, Loss=0.420285
+Epoch 41, Itrs 29860/30000, Loss=0.529327
+Epoch 41, Itrs 29870/30000, Loss=0.511912
+Epoch 41, Itrs 29880/30000, Loss=0.509885
+Epoch 41, Itrs 29890/30000, Loss=0.455570
+Epoch 41, Itrs 29900/30000, Loss=0.425184
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:30,  1.32s/it]
+
+Overall Acc: 0.875784
+Mean Acc: 0.446361
+FreqW Acc: 0.790046
+Mean IoU: 0.363529
+
+Model saved as checkpoints/best_deeplabv3plus_mobilenet_cityscapes_os16.pth
+Epoch 41, Itrs 29910/30000, Loss=0.460632
+Epoch 41, Itrs 29920/30000, Loss=0.468885
+Epoch 41, Itrs 29930/30000, Loss=0.448336
+Epoch 41, Itrs 29940/30000, Loss=0.443222
+Epoch 41, Itrs 29950/30000, Loss=0.436160
+Epoch 41, Itrs 29960/30000, Loss=0.509377
+Epoch 41, Itrs 29970/30000, Loss=0.456040
+Epoch 41, Itrs 29980/30000, Loss=0.576575
+Epoch 41, Itrs 29990/30000, Loss=0.469640
+Epoch 41, Itrs 30000/30000, Loss=0.405071
+Model saved as checkpoints/latest_deeplabv3plus_mobilenet_cityscapes_os16.pth
+validation...
+250it [05:27,  1.31s/it]
+
+Overall Acc: 0.875631
+Mean Acc: 0.447073
+FreqW Acc: 0.790178
+Mean IoU: 0.362556

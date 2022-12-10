@@ -1,0 +1,2 @@
+B
+    0AcC   ?               @   s   d dl mZ d dlmZ dS )?   )?VOCSegmentation)?CityscapesN)?vocr   ?cityscapesr   ? r   r   úF/media/usman/Lab/erfnet/08-Oct-2022/T-Net/datasets/__init__.py?<module>   s   
