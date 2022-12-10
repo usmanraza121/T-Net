@@ -33,7 +33,7 @@ python predict.py --input datasets/data/cityscapes/leftImg8bit/train/bremen  --d
 pip install -r requirements.txt
 ```
 
-### 2. Prepare Datasets
+### 6. Prepare Datasets
 
 ## Cityscapes
 
